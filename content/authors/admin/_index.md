@@ -5,9 +5,12 @@ bio: My research interests include Human-Computer Interaction, Man-Machine
   Interfaces, Wearable Intervention Technology, Augmented Cognition, Sensors,
   Bionics
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction 
+  - Man-Machine Interfaces
+  - Wearable Intervention Technology
+  - Augmented Cognition
+  - Sensors
+  - Bionics
 social:
   - icon: envelope
     icon_pack: fas
