@@ -43,4 +43,4 @@ highlight_name: true
 ---
 Kattoju Ravi Kiran is a Graduate Researcher in the Interactive Systems and User Experience Lab at University of Central Florida . His research interests include include Human-Computer Interaction, Man-Machine Interfaces, Wearable Intervention Technology, Augmented Cognition, Sensors, Bionics. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/KattojuRavikiran_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
