@@ -12,6 +12,8 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+![alt text](SensorPlacement.png)
+
 links:
 - icon: twitter
   icon_pack: fab
