@@ -47,8 +47,6 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-    2. Taught electronic engineering and researched semiconductor physics.
-
 design:
   columns: '2'
 ---
