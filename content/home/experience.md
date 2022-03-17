@@ -31,20 +31,18 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Automatic posture correction utilizing electrical muscle stimulation.
         * Design, development, and testing 3D printed flexible wearables with embedded sensors.
         * Design, development, and testing wearable intervention prototype technology.
         * Soldier-Robot teaming for surveillance and reconnaissance.
         * Fluid flow modeling for turbine vane design.
-  
  - title: Hardware Engineer
     company: Philips Healthcare
     #company_url: ''
     #company_logo: Philips
     location: Bangalore, India
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2013-01-01'
+    date_end: '2014-12-31'
     description: |2-
     Responsibilities include:
         
