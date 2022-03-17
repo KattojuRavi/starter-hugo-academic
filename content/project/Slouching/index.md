@@ -1,6 +1,6 @@
 ---
 title: Automatic Slouching Detection and Correction Utilizing Electrical Muscle Stimulation
-summary: An example of using the in-built project page.
+summary: An example of using the in-built project page THIS IS TO BE CHANGED ANYWAYS.
 
 tags:
 
