@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Automatic Slouching Detection and Correction Utilizing Electrical Muscle Stimulation
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
