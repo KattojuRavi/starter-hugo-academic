@@ -22,21 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Graduate Researcher
+    company: Interactive Systems and User Experience Lab
+    company_url: 'https://www.eecs.ucf.edu/isuelab/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: University of Central Florida, Orlando, Florida, USA
+    date_start: '2014-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Automatic posture correction utilizing electrical muscle stimulation.
+        * Design, development, and testing 3D printed flexible wearables with embedded sensors.
+        * Design, development, and testing wearable intervention prototype technology.
+        * Soldier-Robot teaming for surveillance and reconnaissance.
+        * Fluid flow modeling for turbine vane design.
         
-  - title: Professor of Semiconductor Physics
+  - title: Hardware Engineer
     company: University X
     company_url: ''
     company_logo: org-x
