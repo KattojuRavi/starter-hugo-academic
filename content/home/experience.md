@@ -50,5 +50,5 @@ experience:
         * New product design modeling, conducting comparative performance analysis with exoisting systems.
         * Developed and implemented RFID technology for uniquely identifying different varieties of probes and their comptibilities with different ultrasound systems.
 design:
-  columns: '4'
+  columns: '2'
 ---
