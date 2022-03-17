@@ -28,7 +28,7 @@ experience:
     company_logo: ISUE
     location: University of Central Florida, Orlando, Florida, USA
     date_start: '2014-07-01'
-    date_end: 'present'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
