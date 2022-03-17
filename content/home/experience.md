@@ -47,11 +47,8 @@ experience:
     Responsibilities include:
         
         * Hardware design, prototyping, testing and evaluation of ultrasound probes.
-        * New product design modeling, conducting comparative performance analysis with existing systems.
-        * Developed and implemented RFID technology for uniquely identifying different varieties of probes and their compatibility with different ultrasound systems.
-  
- 
-
+        * New product design modeling, conducting comparative performance analysis with exoisting systems.
+        * Developed and implemented RFID technology for uniquely identifying different varieties of probes and their comptibilities with different ultrasound systems.
 design:
   columns: '4'
 ---
