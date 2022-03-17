@@ -22,28 +22,64 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Graduate Researcher
+    company: Interactive Systems and User Experience Lab
+    company_url: 'https://www.eecs.ucf.edu/isuelab/'
+    company_logo: ISUE
+    location: University of Central Florida, Orlando, Florida, USA
+    date_start: '2014-07-01'
+    date_end: 'present'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Automatic posture correction utilizing electrical muscle stimulation.
+        * Design, development, and testing 3D printed flexible wearables with embedded sensors.
+        * Design, development, and testing wearable intervention prototype technology.
+        * Soldier-Robot teaming for surveillance and reconnaissance.
+        * Fluid flow modeling for turbine vane design.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Hardware Engineer
+    company: Philips Healthcare
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: Philips
+    location: Bangalore, India
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+    Responsibilities include:
+        
+        * Hardware design, prototyping, testing and evaluation of ultrasound probes.
+        * New product design modeling, conducting comparative performance analysis with existing systems.
+        * Developed and implemented RFID technology for uniquely identifying different varieties of probes and their compatibility with different ultrasound systems.
+  
+  - title: Mechatronics Engineer
+    company: GE Healthcare
+    company_url: ''
+    company_logo: GE
+    location: Zipf, Austria
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: |2-
+    Responsibilities include:
+        
+        * Development of real time piezo-acoustic models and simulations for ultrasound wave propagation.
+        * Design, development, rapid prototyping, testing and evaluation of new ultrasound probes with mechanical and electronic components.
+        * Development of water ingression and piezo-electric crystal deformation simulations.
+
+
+  - title: Trainee
+    company: Indian Space Research Organization
+    company_url: ''
+    company_logo: 
+    location: India
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: |2-
+    Responsibilities include:
+        
+        * Development of real time piezo-acoustic models and simulations for ultrasound wave propagation.
+        * Design, development, rapid prototyping, testing and evaluation of new ultrasound probes with mechanical and electronic components.
+        * Development of water ingression and piezo-electric crystal deformation simulations.
 
 design:
   columns: '2'
