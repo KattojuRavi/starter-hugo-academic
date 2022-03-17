@@ -37,10 +37,10 @@ experience:
         * Design, development, and testing wearable intervention prototype technology.
         * Soldier-Robot teaming for surveillance and reconnaissance.
         * Fluid flow modeling for turbine vane design.
-        * 
+  
  - title: Hardware Engineer
-    #company: Philips Healthcare
-    company_url: ''
+    company: Philips Healthcare
+    #company_url: ''
     #company_logo: Philips
     location: Bangalore, India
     date_start: '2016-01-01'
