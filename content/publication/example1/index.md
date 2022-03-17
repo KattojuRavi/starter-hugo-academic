@@ -67,7 +67,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 #- automatic_slouching_detection_
-- example
+- example1
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
