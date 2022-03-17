@@ -17,7 +17,7 @@ social:
     link: /#contact
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kattojuravikiran
 organizations:
   - name: Interactive Systems and User Experience Lab
     url: https://www.eecs.ucf.edu/isuelab/
