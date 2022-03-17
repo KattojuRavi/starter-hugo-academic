@@ -1,18 +1,19 @@
 ---
-title: "Automatic Slouching Detection and Correction Utilizing Electrical Muscle Stimulation"
+title: "An example conference paper"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-
+- Robert Ford
 
 # Author notes (optional)
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
-
-date: "2020-05-01T00:00:00Z"
+date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +29,10 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Habitually poor posture can lead to repetitive strain injuries that lower an individual’s quality of life and productivity. Slouching over computer screens and smart phones are common examples that leads to soreness, and stiffness in the neck, shoulders, upper and lower back regions. To help cultivate good postural habits, researchers have proposed slouch detection systems which alert users when their posture requires attention. However, such notifications are disruptive and can be easily ignored. We address these issues with a new physiological feedback system that uses inertial measurement unit sensors to detect slouching, and electrical muscle stimulation to automatically correct posture. In a user study involving 36 participants, we compare our automatic approach against two alternative feedback systems and through two unique contexts-text entry and gaming. We find that our approach was perceived to be more accurate, interesting, and outperforms alternative techniques in the gaming but not text entry scenario.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: A new physiological feedback system that uses inertial measurement unit sensors to detect slouching, and electrical muscle stimulation to automatically correct slouched posture.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
