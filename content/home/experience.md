@@ -82,5 +82,5 @@ experience:
         * Development of water ingression and piezo-electric crystal deformation simulations.
 
 design:
-  columns: '2'
+  columns: '4'
 ---
