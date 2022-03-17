@@ -39,7 +39,7 @@ experience:
         * Fluid flow modeling for turbine vane design.
   - title: Hardware Engineer
     company: Philips Healthcare
-    company_url: ''
+    company_url: 'https://www.eecs.ucf.edu/isuelab/'
     #company_logo: Philips
     location: Bangalore, India
     date_start: '2016-01-01'
@@ -51,7 +51,7 @@ experience:
         * Developed and implemented RFID technology for uniquely identifying different varieties of probes and their compatibility with different ultrasound systems.
   - title: Mechatronics Engineer
     company: GE Healthcare
-    company_url: ''
+    company_url: 'https://www.eecs.ucf.edu/isuelab/'
     #company_logo: GE
     location: Zipf, Austria
     date_start: '2016-01-01'
@@ -63,7 +63,7 @@ experience:
         * Development of water ingression and piezo-electric crystal deformation simulations.
   - title: Trainee
     company: Indian Space Research Organization
-    company_url: ''
+    company_url: 'https://www.eecs.ucf.edu/isuelab/'
     #company_logo: 
     location: Sriharikota, India
     date_start: '2016-01-01'
@@ -71,7 +71,7 @@ experience:
     description: |2-
     Responsibilities include:
         
-        * • Telemetry, tracking, and observation of satellite locations.
+        * Telemetry, tracking, and observation of satellite locations.
         * Developed an autonomous drilling robot for land slide monitoring and space navigation as part of Bachelors thesis project.
 design:
   columns: '2'
