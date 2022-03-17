@@ -27,8 +27,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Wearable Intervention Technology
+    tag: Wearable Intervention technology
+  - name: Human-Computer Interaction
+    tag: Human-Computer Interaction
+  - name: Man-Machine Interface
+    tag: Man-Machine Interface
+  - name: Sensors
+    tag: Sensors
+
   - name: Other
     tag: Demo
 
