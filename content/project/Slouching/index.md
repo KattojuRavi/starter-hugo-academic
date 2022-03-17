@@ -3,10 +3,11 @@ title: Automatic Slouching Detection and Correction Utilizing Electrical Muscle 
 summary: An example of using the in-built project page.
 
 tags:
-- Wearable Intervention Technology 
-- Sensors 
-- Man 
 
+- Wearable Intervention Technology
+- Sensors
+- Man-Machine Interfaces
+- 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -23,7 +24,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-  
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
