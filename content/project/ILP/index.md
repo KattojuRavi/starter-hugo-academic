@@ -1,8 +1,8 @@
 ---
-title: Automatic Slouching Detection and Correction Utilizing Electrical Muscle Stimulation
+title: Automatic Detection and Correction of Improper Loading Posture Utilizing Electrical Muscle Stimulation
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- Wearable Intervention Technology
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
