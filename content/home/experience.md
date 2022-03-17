@@ -52,6 +52,20 @@ experience:
         * New product design modeling, conducting comparative performance analysis with existing systems.
         * Developed and implemented RFID technology for uniquely identifying different varieties of probes and their compatibility with different ultrasound systems.
 
+  - title: Mechatronics Engineer
+    company: Philips Healthcare
+    company_url: ''
+    #company_logo: Philips
+    location: Bangalore, India
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: |2-
+        Responsibilities include:
+
+        * Hardware design, prototyping, testing and evaluation of ultrasound probes.
+        * New product design modeling, conducting comparative performance analysis with existing systems.
+        * Developed and implemented RFID technology for uniquely identifying different varieties of probes and their compatibility with different ultrasound systems.
+
 design:
   columns: '2'
 ---
