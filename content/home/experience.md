@@ -39,16 +39,46 @@ experience:
         * Fluid flow modeling for turbine vane design.
         
   - title: Hardware Engineer
-    company: University X
+    company: Philips Healthcare
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: Philips
+    location: Bangalore, India
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: |2-
         Responsibilities include:
 
-         * Automatic posture correction utilizing electrical muscle stimulation.
+        * Hardware design, prototyping, testing and evaluation of ultrasound probes.
+        * New product design modeling, conducting comparative performance analysis with existing systems.
+        * Developed and implemented RFID technology for uniquely identifying different varieties of probes and their compatibility with different ultrasound systems.
+
+- title: Mechatronics Engineer
+    company: GE Healthcare
+    company_url: ''
+    company_logo: GE
+    location: Zipf, Austria
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: |2-
+        Responsibilities include:
+
+        * Development of real time piezo-acoustic models and simulations for ultrasound wave propagation.
+        * Design, development, rapid prototyping, testing and evaluation of new ultrasound probes with mechanical and electronic components.
+        * Development of water ingression and piezo-electric crystal deformation simulations.
+
+- title: Trainee
+    company: Indian Space Research Organization
+    company_url: ''
+    company_logo: 
+    location: Sriharikota, India
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: |2-
+        Responsibilities include:
+
+        * Telemetry, tracking, and observation of satellite locations.
+        * Developed an autonomous drilling robot for land slide monitoring and space navigation as part of Bachelors thesis project.
+
 
 design:
   columns: '2'
