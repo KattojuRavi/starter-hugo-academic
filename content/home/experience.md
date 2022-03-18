@@ -25,7 +25,7 @@ experience:
   - title: Graduate Researcher
     company: Interactive Systems and User Experience Lab
     company_url: 'https://www.eecs.ucf.edu/isuelab/'
-    #company_logo: ISUE
+    company_logo: ISUE
     location: University of Central Florida, Orlando, Florida, USA
     date_start: '2014-07-01'
     date_end: ''
@@ -41,7 +41,7 @@ experience:
   - title: Hardware Engineer
     company: Philips Healthcare
     company_url: ''
-    #company_logo: Philips
+    company_logo: Philips
     location: Bangalore, India
     date_start: '2016-01-01'
     date_end: '2020-12-31'
@@ -55,7 +55,7 @@ experience:
   - title: Mechatronics Engineer
     company: GE Healthcare
     company_url: ''
-    #company_logo: Philips
+    company_logo: Philips
     location: Zipf, Austria
     date_start: '2016-01-01'
     date_end: '2020-12-31'
