@@ -25,7 +25,7 @@ experience:
   - title: Graduate Researcher
     company: Interactive Systems and User Experience Lab
     company_url: 'https://www.eecs.ucf.edu/isuelab/'
-    #company_logo: ISUE
+    company_logo: ISUELabSaiRVK
     location: University of Central Florida, Orlando, Florida, USA
     date_start: '2014-07-01'
     date_end: ''
