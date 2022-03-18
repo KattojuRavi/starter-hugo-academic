@@ -27,16 +27,16 @@ education:
   courses:
     - course: PhD in Modeling and Simulation
       institution: University of Central Florida
-      year: 2001
+      year: 2022
     - course: Masters in Modeling and Simulation
       institution: University of Central Florida
-      year: 2015
+      year: 2016
     - course: Masters in Mechatronics
       institution: Loughborough University
-      year: 2011
+      year: 2012
     - course: "B.Eng Electronics and Communications Engineering "
       institution: Anna University
-      year: 1996
+      year: 2009
 email: ""
 superuser: true
 highlight_name: true
