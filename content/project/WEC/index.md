@@ -10,9 +10,9 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 
 
@@ -44,7 +44,7 @@ Fig.1 - Correct-Me: A flexible 3D printed glove with embedded bend sensors to au
 
 Correct-Me continuously monitors the wrist for extension which is obtained from bend sensors placed strategically in the glove on the back of the hand at the wrist joint. When wrist extension is detected (illustrated in Figure 1), EMS was automatically applied to the forearm to invoke an involuntary muscular contraction which generates a physiological response of restoring the wrist back to neutral position and thereby correcting wrist extension (illustrated in Figure 2a and 2b). Future work includes conducting a user study to determine the effectiveness of our automatic approach against traditional audio, visual, vibrotactile feedback systems in an ecologically valid setting such as typing, drawing, and gaming.
 
-![alt text](IMG_0998.png)
+<!-- ![alt text](IMG_0998.png)
 <p align = "Justify">
 Fig.2a - Wrist in extended position.
 </p>
@@ -52,4 +52,4 @@ Fig.2a - Wrist in extended position.
 ![alt text](IMG_0996.png)
 <p align = "Justify">
 Fig.2b - Wrist extension corrected using EMS
-</p>
+</p> -->
