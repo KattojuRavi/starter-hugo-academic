@@ -1,6 +1,6 @@
 ---
 title: Automatic Slouching Detection and Correction Utilizing Electrical Muscle Stimulation
-summary: An example of using the in-built project page THIS IS TO BE CHANGED ANYWAYS.
+summary: PhD Dissertation
 
 tags:
 
@@ -35,7 +35,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: example
 
 ---
 

@@ -28,7 +28,7 @@ external_link: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: example
 ---
 
 • Design, development, testing and validation of a new vibrational energy harnessing prototype for power generation.

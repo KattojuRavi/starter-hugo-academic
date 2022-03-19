@@ -28,7 +28,7 @@ external_link: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: example
 ---
 • Developed innovative design of fuel efficient hybrid motorcycle that alternates between two energy sources (gas and electricity).
 • Proposed employment of regenerative braking coupled to epicyclic gear train to power an electric motor.
