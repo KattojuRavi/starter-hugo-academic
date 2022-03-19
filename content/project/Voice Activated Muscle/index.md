@@ -1,6 +1,7 @@
 ---
 title: Voice Activated Muscle
 summary: An example of using the in-built project page.
+active: false
 tags:
 - Wearable Intervention Technology
 - Sensors

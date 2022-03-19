@@ -1,6 +1,7 @@
 ---
 title: Design of Hybrid Commuter Motorcycle
 summary: Masters Mechatronics Integration Project for Design Innovation
+active: false
 tags:
 - Mechatronics
 date: "2016-04-27T00:00:00Z"

@@ -1,9 +1,8 @@
 ---
 title: Autonomous Drilling Robot for Space Navigation and Landslide Monitioring
 summary: B.Eng Thesis Project. 
-
+active: false
 tags:
-
 - Sensors
 - Man-Machine Interfaces
 date: "2016-04-27T00:00:00Z"

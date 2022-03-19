@@ -1,6 +1,7 @@
 ---
 title: Human Tele-Operation and Dynamic Activity Training
 summary: PhD Modeling and Simulation Research Projects
+active: false
 tags:
 - Wearable Intervention Technology
 - Bionics

@@ -1,6 +1,7 @@
 ---
 title: Power Harvesting for Low Poer Sensors
 summary: Masters Mechatronics Thesis Project
+active: false
 tags:
 - Sensors
 date: "2016-04-27T00:00:00Z"
