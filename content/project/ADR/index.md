@@ -31,7 +31,7 @@ external_link: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 
 ---
 • Design and development of working prototype of drilling robot for land slide monitoring, navigation and drilling purposes.

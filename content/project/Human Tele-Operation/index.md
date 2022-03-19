@@ -29,7 +29,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 We further extended the capabilities of EMS to develop a novel interaction technique for human tele-operation and for dynamic activity training using electromyography (EMG) and electrical muscle stimulation. We explored the transference of muscle activity between people to enable remote tele-operation. This technique presents new possibilities and applications in rehabilitation and dynamic activity training in physical reality and virtual/augmented reality applications.

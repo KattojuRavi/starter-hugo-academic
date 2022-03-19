@@ -19,28 +19,28 @@ image:
 
 
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 
 ---
 
 Habitually poor posture can lead to repetitive strain injuries that lower an individual’s quality of life and productivity. Slouching over computer screens and smart phones are common examples that leads to soreness, and stiffness in the neck, shoulders, upper and lower back regions. To help cultivate good postural habits, researchers have proposed slouch detection systems which alert users when their posture requires attention. However, such notifications are disruptive and can be easily ignored. We address these issues with a new physiological feedback system that uses inertial measurement unit sensors to detect slouching, and electrical muscle stimulation to automatically correct posture. In a user study involving 36 participants, we compare our automatic approach against two alternative feedback systems and through two unique contexts-text entry and gaming. We find that our approach was perceived to be more accurate, interesting, and outperforms alternative techniques in the gaming but not text entry scenario.
-We developed a physiological feedback loop-based wearable intervention prototype relying on IMU sensors and EMS (illustrated in Figure~\ref{fig:biologicalfeedback}). Our prototype employed three Metawear MMC wireless sensors for measuring angular changes, and the openEMSstim package~\cite{lopes2017immense} for presenting the EMS feedback.  We developed a user interface using the Metawear C\# SDK and integrated the EMS hardware to complete the physiological feedback loop. As slouching was mainly characterized by torso inclination and forward rolling of the shoulders\cite{kamil2015effect}, IMU 1 was placed at the center of the collar bone above the chest (illustrated in Figure~\ref{fig:sensorplacement} (B)) and the other IMU's 2 and 3 were placed on the center of each deltoid (illustrated in Figure~\ref{fig:sensorplacement} (A) \& (C)).
+We developed a physiological feedback loop-based wearable intervention prototype relying on IMU sensors and EMS (illustrated in Figure 1). Our prototype employed three Metawear MMC wireless sensors for measuring angular changes, and the  package for presenting the EMS feedback.  We developed a user interface using the Metawear C\# SDK and integrated the EMS hardware to complete the physiological feedback loop. As slouching was mainly characterized by torso inclination and forward rolling of the shoulders\cite{kamil2015effect}, IMU 1 was placed at the center of the collar bone above the chest (illustrated in Figure \ref{fig:sensorplacement} (B)) and the other IMU's 2 and 3 were placed on the center of each deltoid (illustrated in Figure \ref{fig:sensorplacement} (A) \& (C)).
 
 ![alt text](SensorPlacement.png)
 <p align = "Justify">
