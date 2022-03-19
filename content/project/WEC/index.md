@@ -4,6 +4,7 @@ summary: PhD Modeling and Simulation Research Project Om Sai Ram
 tags:
 - Wearable Intervention Technology
 - Sensors
+
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -34,7 +35,7 @@ We developed a novel interaction technique to extend the capabilities of Electri
 
 ![alt text](Teaser.png)
 <p align = "Justify">
-Fig.1 - Correct-Me: A flexible 3D printed glove with embedded bend sensors to automatically detect and correct wrist extension.
+Fig.1 - Voice activated EMS prototype responding to specific voice commands recognized by the speech recognition engine for (A) Activation of EMS on hand, (B) EMS invoking involuntary contraction of hand muscles for grasping object, (C) EMS invoking involuntary contraction of Bicep muscles for lifting object, (D) Deactivation of EMS on bicep for dropping object.
 </p>
 
 
