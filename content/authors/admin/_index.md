@@ -11,6 +11,7 @@ interests:
   - Augmented Cognition
   - Sensors
   - Bionics
+  - Mechatronics
 social:
   - icon: envelope
     icon_pack: fas
