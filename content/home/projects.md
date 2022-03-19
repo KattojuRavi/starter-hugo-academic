@@ -31,11 +31,12 @@ content:
     tag: Wearable Intervention technology
   - name: Human-Computer Interaction
     tag: Human-Computer Interaction
-  - name: Man-Machine Interface
-    tag: Man-Machine Interface
+  - name: Input/Output Interface
+    tag: Input/Output Interface
   - name: Sensors
     tag: Sensors
-
+  - name: Mechatronics
+    tag: Mechatronics
   - name: Other
     tag: Demo
 
