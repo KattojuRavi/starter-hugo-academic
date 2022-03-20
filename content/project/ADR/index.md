@@ -36,4 +36,5 @@ slides: example
 
 ---
 • Design and development of working prototype of drilling robot for land slide monitoring, navigation and drilling purposes.
+
 • Devised the use of multiple sensors for detecting presence of water, gas, heat, and fire while establishing constant communication to the operator using ANT wireless network based sensors.
