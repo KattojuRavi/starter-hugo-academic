@@ -6,12 +6,14 @@ bio: My research interests include Human-Computer Interaction, Man-Machine
   Bionics
 interests:
   - Human-Computer Interaction 
-  - Man-Machine Interfaces
+  - Input/Output Interfaces
   - Wearable Intervention Technology
   - Augmented Cognition
+  - Internet of Things (IoT)
+  - Mechatronics
   - Sensors
   - Bionics
-  - Mechatronics
+ 
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,6 +44,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Kattoju Ravi Kiran is a Graduate Researcher in the Interactive Systems and User Experience Lab at University of Central Florida. His research interests include include Human-Computer Interaction, Man-Machine Interfaces, Wearable Intervention Technology, Augmented Cognition, Sensors, Bionics. 
+Kattoju Ravi Kiran is a Graduate Researcher in the Interactive Systems and User Experience Lab at University of Central Florida. His research interests include include Human-Computer Interaction, Input/Output Interfaces, Wearable Intervention Technology, Augmented Cognition, Sensors, Bionics. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/KattojuRavikiran_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
