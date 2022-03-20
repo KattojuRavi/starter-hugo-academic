@@ -33,7 +33,8 @@ slides: example
 ---
 
 • Design, development, testing and validation of a new vibrational energy harnessing prototype for power generation.
-• Developed electro-magnetic induction-based energy harvester to generate energy from ambient vibrations during
-physical activities in humans and in heavy industrial machinery.
+
+• Developed electro-magnetic induction-based energy harvester to generate energy from ambient vibrations during physical activities in humans and in heavy industrial machinery.
+
 • Demonstrated energy generation and harvesting to drive low power sensors.
 

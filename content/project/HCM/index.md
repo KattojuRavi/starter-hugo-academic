@@ -32,4 +32,5 @@ external_link: ""
 slides: example
 ---
 • Developed innovative design of fuel efficient hybrid motorcycle that alternates between two energy sources (gas and electricity).
+
 • Proposed employment of regenerative braking coupled to epicyclic gear train to power an electric motor.
