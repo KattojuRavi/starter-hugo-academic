@@ -28,7 +28,7 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
-- icon: csharp
+- icon: 'csharp'
   icon_pack: custom
   name: CSharp
   description: "90%"
