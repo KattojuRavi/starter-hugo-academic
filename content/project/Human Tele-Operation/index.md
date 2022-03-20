@@ -35,7 +35,7 @@ slides: example
 
 We further extended the capabilities of EMS to develop a novel interaction technique for human tele-operation and for dynamic activity training using electromyography (EMG) and electrical muscle stimulation. We explored the transference of muscle activity between people to enable remote tele-operation. This technique presents new possibilities and applications in rehabilitation and dynamic activity training in physical reality and virtual/augmented reality applications.
 
-![alt text](Teaser.png)
+![alt text](featured.png)
 <p align = "Justify">
 Fig.1 - Human Tele-operation EMS prototype demonstrating the transfer of muscle activity from Operator to Performer. (A) The operators bicep fitted with EMG sensors records muscle activity during a bicep flex action. (B), (C), and (D) The operators EMG signal representative of the bicep muscle activation is applied as an electrical stimulus to the bicep muscle performer to generate the same physiological response of the bicep flex action.
 </p>
