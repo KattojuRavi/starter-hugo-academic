@@ -35,7 +35,7 @@ slides: example
 ---
 Repetitive Strain Injuries (RSI) to the wrist represent significant risk factors leading to serious long-term injuries, such as carpal tunnel syndrome, shoulder, and neck pain. Wrist extension is a common posture related issue experienced by many young adults, desk job employees, and programmers who are prone to working for long durations at their computers for work/gaming activities.  We developed "Correct-Me", a real-time physiological feedback system that employed bend sensors to actively detect stress on the wrist and dynamically correct improper wrist posture and extension utilizing EMS. We developed a novel flexible 3D printed glove instrumented with embedded bend sensors for detection of wrist positions and integration with EMS (illustrated in Figure 1). 
 
-![alt text](Teaser.png)
+![alt text](featured.png)
 <p align = "Justify">
 Fig.1 - Correct-Me: A flexible 3D printed glove with embedded bend sensors to automatically detect and correct wrist extension.
 </p>
