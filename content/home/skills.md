@@ -28,9 +28,12 @@ feature:
 - icon: camera-retro
   icon_pack: fas
   name: Photography
-- icon: 'csharp'
+- icon: csharp
   icon_pack: custom
   name: CSharp
+- icon: c
+  icon_pack: custom
+  name: C
 #description: "90%"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
