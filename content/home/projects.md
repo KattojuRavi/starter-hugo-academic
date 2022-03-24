@@ -28,11 +28,11 @@ content:
   - name: All
     tag: '*'
   - name: Wearable Intervention Technology
-    tag: Wearables
+    tag: Wearable
   - name: Human-Computer Interaction
     tag: HCI
   - name: Input/Output Interface
-    tag: I/O
+    tag: IO
   - name: Sensors
     tag: Sensors
   - name: Mechatronics

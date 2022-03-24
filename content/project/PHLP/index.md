@@ -4,7 +4,7 @@ summary: Masters Mechatronics Thesis Project
 tags:
 - Sensors
 - Mechatronics
-- I/O
+- IO
 date: "2016-04-27T00:00:00Z"
 
 weight: 80

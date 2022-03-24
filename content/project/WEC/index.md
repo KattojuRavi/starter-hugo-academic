@@ -5,7 +5,7 @@ tags:
 - Sensors
 - Mechatronics
 - HCI
-- I/O
+- IO
 - Wearable
 
 date: "2016-04-27T00:00:00Z"
