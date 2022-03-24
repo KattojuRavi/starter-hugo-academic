@@ -57,8 +57,8 @@ experience:
     company_url: ''
     company_logo: GESai
     location: Zipf, Austria
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2011-09-01'
+    date_end: '2012-09-01'
     description: |2-
         Responsibilities include:
 
