@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.eecs.ucf.edu/isuelab/'
     company_logo: ISUELabSaiRVK
     location: University of Central Florida, Orlando, Florida, USA
-    date_start: '2014-07-01'
+    date_start: '2014-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -58,8 +58,8 @@ experience:
     company_url: ''
     company_logo: GESai
     location: Zipf, Austria
-    date_start: '2011-09-01'
-    date_end: '2012-09-01'
+    date_start: '2012-08-01'
+    date_end: '2013-07-01'
     description: |2-
         Responsibilities include:
 

@@ -32,10 +32,10 @@ education:
       year: 2022
     - course: Masters in Modeling and Simulation
       institution: University of Central Florida
-      year: 2016
+      year: 2015
     - course: Masters in Mechatronics
       institution: Loughborough University
-      year: 2012
+      year: 2011
     - course: "B.Eng Electronics and Communications Engineering "
       institution: Anna University
       year: 2009

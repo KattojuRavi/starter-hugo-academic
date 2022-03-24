@@ -28,7 +28,7 @@ feature:
 - name: Autodesk Fusion 360
 - name: Comsol Multiphysics
 - name: Altium PCB Design
-- name: Unity 3D
+- name: Unity3D
 - name: Microsoft Office Suite
 - name: Adobe Photoshop
   #description: 90%
