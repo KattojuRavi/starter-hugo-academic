@@ -1,8 +1,8 @@
 ---
 title: Kattoju Ravi Kiran
 role: Graduate Researcher
-bio: My research interests include Human-Computer Interaction, Man-Machine
-  Interfaces, Wearable Intervention Technology, Augmented Cognition, Sensors,
+bio: My research interests include Human-Computer Interaction, Input/Output
+  Interfaces, Wearable Intervention Technology, Augmented Cognition, Internet of Things (IOT), Mechatronics, Sensors.
   Bionics
 interests:
   - Human-Computer Interaction 
