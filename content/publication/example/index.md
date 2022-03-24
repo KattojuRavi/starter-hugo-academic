@@ -10,7 +10,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
+- "First Author"
 #- "Equal contribution"
 
 date: "2020-05-01T00:00:00Z"
