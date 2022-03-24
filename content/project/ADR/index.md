@@ -3,7 +3,8 @@ title: Autonomous Drilling Robot for Space Navigation and Landslide Monitioring
 summary: B.Eng Thesis Project
 tags:
 - Sensors
-- Man-Machine Interfaces
+- Mechatronics
+- I/O
 date: "2016-04-27T00:00:00Z"
 
 weight: 90

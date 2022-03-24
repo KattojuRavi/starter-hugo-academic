@@ -2,8 +2,11 @@
 title: Correct-Me - Design of Flexible 3D Printed Glove and Automatic Wrist Extension Detection and Correction System
 summary: PhD Research Project
 tags:
-- Wearable Intervention Technology
 - Sensors
+- Mechatronics
+- HCI
+- I/O
+- Wearable
 
 date: "2016-04-27T00:00:00Z"
 

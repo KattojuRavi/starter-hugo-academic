@@ -4,10 +4,12 @@ summary: PhD Dissertation
 
 tags:
 
-- Wearable Intervention Technology
 - Sensors
-- Man-Machine Interfaces
-- 
+- Mechatronics
+- HCI
+- I/O
+- Wearable
+
 date: "2016-04-27T00:00:00Z"
 
 weight: 10

@@ -2,9 +2,11 @@
 title: Human Tele-Operation and Dynamic Activity Training
 summary: PhD Modeling and Simulation Research Projects
 tags:
-- Wearable Intervention Technology
-- Bionics
 - Sensors
+- Mechatronics
+- HCI
+- I/O
+- Wearable
 date: "2016-04-27T00:00:00Z"
 
 weight: 40

@@ -32,7 +32,7 @@ content:
   - name: Human-Computer Interaction
     tag: HCI
   - name: Input/Output Interface
-    tag: I/O Interfaces
+    tag: I/O
   - name: Sensors
     tag: Sensors
   - name: Mechatronics

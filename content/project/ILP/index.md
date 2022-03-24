@@ -2,7 +2,11 @@
 title: Automatic Detection and Correction of Improper Loading Posture Utilizing Electrical Muscle Stimulation
 summary: PhD Dissertation 
 tags:
-- Wearable Intervention Technology
+- Sensors
+- Mechatronics
+- HCI
+- I/O
+- Wearable
 date: "2016-04-27T00:00:00Z"
 
 weight: 30
