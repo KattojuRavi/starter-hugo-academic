@@ -44,7 +44,7 @@ experience:
     company_logo: Philips
     location: Bangalore, India
     date_start: '2013-07-01'
-    date_end: '2014-7-31'
+    date_end: '2014-7-10'
     description: |2-
         Responsibilities include:
 
@@ -58,7 +58,7 @@ experience:
     company_logo: GESai
     location: Zipf, Austria
     date_start: '2011-01-01'
-    date_end: '2012-01-31'
+    date_end: '2012-01-10'
     description: |2-
         Responsibilities include:
 
@@ -73,7 +73,7 @@ experience:
     #company_logo: Philips
     location: Sriharikota, India
     date_start: '2008-03-01'
-    date_end: '2008-09-31'
+    date_end: '2008-09-10'
     description: |2-
         Responsibilities include:
 
