@@ -1,5 +1,5 @@
 ---
-title: Power Harvesting for Low Poer Sensors
+title: Power Harvesting for Low Power Sensors
 summary: Masters Mechatronics Thesis Project
 tags:
 - Sensors

@@ -32,11 +32,12 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Automatic posture correction utilizing electrical muscle stimulation.
-        * Design, development, and testing 3D printed flexible wearables with embedded sensors.
-        * Design, development, and testing wearable intervention prototype technology.
-        * Soldier-Robot teaming for surveillance and reconnaissance.
-        * Fluid flow modeling for turbine vane design.
+       * Collaborated with interdisciplinary teams to design, develop, and prototype novel interaction technologies.
+       * Designed and developed multimodal input/output interface prototypes for VR/AR/XR interactive systems.
+       * Designed, developed, and evaluated performance of flexible 3D printed wearables with embedded sensors.
+       * Designed, developed, and tested wearable intervention prototype technology for automatic posture correction utilizing electrical muscle stimulation. Designed sensor hardware and machine learning algorithms for poor posture detection.
+       * Demonstrated capabilities to design, develop, and integrate hardware/software solutions from concept design to prototype, validation, and testing. 
+       * Designed and conducted user studies to measure and evaluate system/user performance with wearable intervention technology. Prepared and presented first-authored publications as part of research activities. 
         
   - title: Hardware Engineer
     company: Philips Healthcare
@@ -48,9 +49,9 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Hardware design, prototyping, testing and evaluation of ultrasound probes.
+        * Collaborated with cross functional teams for hardware design, prototyping, testing of ultrasound probes.
         * New product design modeling, conducting comparative performance analysis with existing systems.
-        * Developed and implemented RFID technology for uniquely identifying different varieties of probes and their compatibility with different ultrasound systems.
+        * Designed, developed and integrated wireless RFID input interfaces for uniquely identifying different varieties of probes and their compatibility with different ultrasound systems.
 
   - title: Mechatronics Engineer
     company: GE Healthcare
@@ -62,8 +63,8 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Development of real time piezo-acoustic models and simulations for ultrasound wave propagation.
-        * Design, development, rapid prototyping, testing and evaluation of new ultrasound probes with mechanical and electronic components.
+        * Developed real-time piezo-acoustic models and simulations for ultrasound wave propagation.
+        * Designed and developed rapid prototypes, testing and evaluation of new ultrasound probes with mechanical and electronic sensor components.
         * Development of water ingression and piezo-electric crystal deformation simulations.
 
 
@@ -78,7 +79,7 @@ experience:
         Responsibilities include:
 
         * Telemetry, tracking, and observation of satellite locations.
-        * Developed an autonomous drilling robot for land slide monitoring and space navigation as part of Bachelors thesis project.
+        * Developed an autonomous drilling robot for land slide monitoring and space navigation as part of Bachelors thesis.  
 
 design:
   columns: '2'
