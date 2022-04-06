@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Wearable Intervention Technology
-    tag: Wearable
+    tag: Wearables
   - name: Human-Computer Interaction
     tag: HCI
   - name: Input/Output Interface
