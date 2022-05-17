@@ -22,7 +22,7 @@ social:
     link: https://www.linkedin.com/in/kattojuravikiran
 organizations:
   - name: Interactive Systems and User Experience Lab
-    url: https://www.eecs.ucf.edu/isuelab/
+    url: https://www.eecs.ucf.edu/isuelab/people/ravi.php
   - name: University of Central Florida
     url: https://www.ucf.edu
 education:
