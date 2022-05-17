@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Researcher
+  - title: Doctoral Researcher
     company: Interactive Systems and User Experience Lab
     company_url: 'https://www.eecs.ucf.edu/isuelab/'
     company_logo: ISUELabSaiRVK
@@ -39,7 +39,7 @@ experience:
        * Demonstrated capabilities to design, develop, and integrate hardware/software solutions from concept design to prototype, validation, and testing. 
        * Designed and conducted user studies to measure and evaluate system/user performance with wearable intervention technology. Prepared and presented first-authored publications as part of research activities. 
         
-  - title: Hardware Engineer
+  - title: Hardware R&D Engineer
     company: Philips Healthcare
     company_url: ''
     company_logo: Philips
@@ -53,7 +53,7 @@ experience:
         * New product design modeling, conducting comparative performance analysis with existing systems.
         * Designed, developed and integrated wireless RFID input interfaces for uniquely identifying different varieties of probes and their compatibility with different ultrasound systems.
 
-  - title: Mechatronics Engineer
+  - title: Mechatronics R&D Engineer
     company: GE Healthcare
     company_url: ''
     company_logo: GESai
