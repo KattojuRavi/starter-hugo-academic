@@ -45,8 +45,6 @@ highlight_name: true
 ---
 Kattoju Ravi Kiran is a Doctoral Researcher in the Interactive Systems and User Experience Lab at University of Central Florida. 
 
-He  received his PhD Degree in Modeling and Simulation (Multidisciplinary Engineering) at UCF in 2022. He previously received his Masters degree in Modeling and Simulation (Multidisciplinary Engineering) at UCF in 2015, and Masters in Mechatronics from Loughborough University (UK) in 2011. He received his undergraduate degree in Electronics and Communication Engineering from Anna University (India) in 2009.
-
 His dissertation was on "Automatic Posture Correction utilizing Electric Muscle Stimulation", where he designed, developed and implemented Electrical Muscle Stimulation-based (EMS) wearable intervention technology to correct poor postures, such as slouching, asymetric weight distribution and improper loading posture. 
 
 His research interests include include Human-Computer Interaction, Input/Output Interfaces, Wearable Intervention Technology, Augmented Cognition, Sensors, Bionics. 
