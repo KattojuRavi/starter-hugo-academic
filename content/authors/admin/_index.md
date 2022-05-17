@@ -46,4 +46,4 @@ highlight_name: true
 Kattoju Ravi Kiran is a Doctoral Researcher in the Interactive Systems and User Experience Lab at University of Central Florida. His dissertation was on "Automatic Posture Correction Utilizing Electric Muscle Stimulation", where he designed, developed and implemented Electrical Muscle Stimulation-based (EMS) wearable intervention technology to correct poor postures, such as slouching, asymetric weight distribution and improper loading posture. 
 
 His research interests include include Human-Computer Interaction, Input/Output Interfaces, Wearable Intervention Technology, Augmented Cognition, Sensors, Bionics. 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/KattojuRavikiranResume_24March22.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kattoju_CVResume_SaiRVK.pdf" "newtab" >}}resumé{{< /staticref >}}.
